@@ -1,4 +1,4 @@
 export * as t from "./exports";
 
-import * as ts from "typescript";
-export { ts };
+import * as tanuts from "typescript";
+export { tanuts };
